@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Crazy Light Colors -->
+    <color name="primary">#FF69B4</color>
+    <color name="primary_dark">#FF1493</color>
+    <color name="primary_light">#FFB6C1</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent">#00FFFF</color>
+    <color name="accent_light">#87CEEB</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F0F8FF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFACD</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FF4500</color>
+    <color name="text_secondary">#32CD32</color>
+    <color name="text_hint">#DDA0DD</color>
+    
+    <!-- Success/Error Colors -->
+    <color name="success">#00FF7F</color>
+    <color name="error">#FF6347</color>
+    <color name="warning">#FFD700</color>
+    
+    <!-- Crazy Gradient Colors -->
+    <color name="gradient_start">#FF69B4</color>
+    <color name="gradient_end">#00FFFF</color>
+    <color name="gradient_middle">#FFFF00</color>
+</resources>

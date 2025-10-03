@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386488402037",
+    "project_id": "interntaskapp",
+    "storage_bucket": "interntaskapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386488402037:android:7fde545cee06c03f16b83c",
+        "android_client_info": {
+          "package_name": "com.example.interntaskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAHM2lCJEd9mL5J568Mmm47xjm3DsIOtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

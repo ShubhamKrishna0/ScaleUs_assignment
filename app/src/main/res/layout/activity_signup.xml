@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/light_gradient_bg"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="32dp">
+
+        <!-- Main Card Container -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/card_background"
+            android:padding="40dp"
+            android:elevation="8dp"
+            android:gravity="center">
+
+            <!-- Welcome Text -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🌟 Join Us Today 🌟"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:textColor="#4A148C"
+                android:fontFamily="serif"
+                android:layout_marginBottom="8dp"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Create your beautiful account"
+                android:textSize="16sp"
+                android:textColor="#7B1FA2"
+                android:fontFamily="sans-serif-light"
+                android:layout_marginBottom="35dp"
+                android:gravity="center" />
+
+            <!-- Name Input -->
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="👤 Full Name"
+                android:inputType="textPersonName"
+                android:background="@drawable/elegant_edittext"
+                android:padding="20dp"
+                android:textColor="#4A148C"
+                android:textColorHint="#9C27B0"
+                android:fontFamily="sans-serif"
+                android:textSize="16sp"
+                android:layout_marginBottom="18dp" />
+
+            <!-- Email Input -->
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="✉️ Email Address"
+                android:inputType="textEmailAddress"
+                android:background="@drawable/elegant_edittext"
+                android:padding="20dp"
+                android:textColor="#4A148C"
+                android:textColorHint="#9C27B0"
+                android:fontFamily="sans-serif"
+                android:textSize="16sp"
+                android:layout_marginBottom="18dp" />
+
+            <!-- Phone Input -->
+            <EditText
+                android:id="@+id/etPhone"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="📱 Phone Number"
+                android:inputType="phone"
+                android:background="@drawable/elegant_edittext"
+                android:padding="20dp"
+                android:textColor="#4A148C"
+                android:textColorHint="#9C27B0"
+                android:fontFamily="sans-serif"
+                android:textSize="16sp"
+                android:layout_marginBottom="18dp" />
+
+            <!-- Password Input -->
+            <EditText
+                android:id="@+id/etPassword"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="🔒 Password"
+                android:inputType="textPassword"
+                android:background="@drawable/elegant_edittext"
+                android:padding="20dp"
+                android:textColor="#4A148C"
+                android:textColorHint="#9C27B0"
+                android:fontFamily="sans-serif"
+                android:textSize="16sp"
+                android:layout_marginBottom="30dp" />
+
+            <!-- Sign Up Button -->
+            <Button
+                android:id="@+id/btnSignUp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="✨ CREATE ACCOUNT ✨"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-medium"
+                android:background="@drawable/elegant_button"
+                android:elevation="4dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

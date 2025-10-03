@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background">
+
+    <!-- Row 1 -->
+    <TextView android:id="@+id/emoji1" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🚀" android:textSize="32sp" android:layout_marginTop="50dp" android:layout_marginLeft="50dp" />
+    <TextView android:id="@+id/emoji2" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🎉" android:textSize="28sp" android:layout_marginTop="60dp" android:layout_marginLeft="150dp" />
+    <TextView android:id="@+id/emoji3" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="⭐" android:textSize="36sp" android:layout_marginTop="40dp" android:layout_marginLeft="250dp" />
+    <TextView android:id="@+id/emoji4" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🌈" android:textSize="30sp" android:layout_marginTop="70dp" android:layout_marginLeft="320dp" />
+
+    <!-- Row 2 -->
+    <TextView android:id="@+id/emoji5" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🦄" android:textSize="34sp" android:layout_marginTop="150dp" android:layout_marginLeft="30dp" />
+    <TextView android:id="@+id/emoji6" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🎈" android:textSize="32sp" android:layout_marginTop="140dp" android:layout_marginLeft="120dp" />
+    <TextView android:id="@+id/emoji7" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🍭" android:textSize="28sp" android:layout_marginTop="160dp" android:layout_marginLeft="200dp" />
+    <TextView android:id="@+id/emoji8" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🌟" android:textSize="30sp" android:layout_marginTop="130dp" android:layout_marginLeft="280dp" />
+
+    <!-- Row 3 -->
+    <TextView android:id="@+id/emoji9" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🎪" android:textSize="36sp" android:layout_marginTop="250dp" android:layout_marginLeft="60dp" />
+    <TextView android:id="@+id/emoji10" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🎨" android:textSize="32sp" android:layout_marginTop="240dp" android:layout_marginLeft="160dp" />
+    <TextView android:id="@+id/emoji11" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🎭" android:textSize="34sp" android:layout_marginTop="260dp" android:layout_marginLeft="240dp" />
+    <TextView android:id="@+id/emoji12" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🎵" android:textSize="28sp" android:layout_marginTop="230dp" android:layout_marginLeft="310dp" />
+
+    <!-- Center Welcome Text -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Scale Us!"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_centerInParent="true"
+        android:shadowColor="@color/black"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="4" />
+
+    <!-- Row 4 -->
+    <TextView android:id="@+id/emoji13" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🍰" android:textSize="30sp" android:layout_marginTop="450dp" android:layout_marginLeft="40dp" />
+    <TextView android:id="@+id/emoji14" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🎂" android:textSize="32sp" android:layout_marginTop="460dp" android:layout_marginLeft="130dp" />
+    <TextView android:id="@+id/emoji15" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🍬" android:textSize="28sp" android:layout_marginTop="440dp" android:layout_marginLeft="220dp" />
+    <TextView android:id="@+id/emoji16" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🍪" android:textSize="34sp" android:layout_marginTop="470dp" android:layout_marginLeft="300dp" />
+
+    <!-- Row 5 -->
+    <TextView android:id="@+id/emoji17" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🎀" android:textSize="32sp" android:layout_marginTop="550dp" android:layout_marginLeft="70dp" />
+    <TextView android:id="@+id/emoji18" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="💎" android:textSize="30sp" android:layout_marginTop="540dp" android:layout_marginLeft="150dp" />
+    <TextView android:id="@+id/emoji19" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🌺" android:textSize="36sp" android:layout_marginTop="560dp" android:layout_marginLeft="230dp" />
+    <TextView android:id="@+id/emoji20" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="✨" android:textSize="28sp" android:layout_marginTop="530dp" android:layout_marginLeft="290dp" />
+
+</RelativeLayout>
