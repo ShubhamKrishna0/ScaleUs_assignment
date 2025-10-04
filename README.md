@@ -113,9 +113,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Shubham Krishna**
 
-- 📧 Email: [your-email@example.com](mailto:krishnashubham09@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shubham0/)
-- 🐙 GitHub: [Your GitHub Profile](https://github.com/ShubhamKrishna0)
+- 📧 Email: [krishnashubham09@gmail.com](mailto:krishnashubham09@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/shubham0/](https://www.linkedin.com/in/shubham0/)
+- 🐙 GitHub: [https://github.com/ShubhamKrishna0](https://github.com/ShubhamKrishna0)
 
 ## 🙏 Acknowledgments
 
