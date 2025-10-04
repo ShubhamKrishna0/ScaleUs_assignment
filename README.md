@@ -37,7 +37,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ShubhamKrishna0/ScaleUs_assignment.git
 cd intern
 ```
 
@@ -113,9 +113,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Shubham Krishna**
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- 📧 Email: [your-email@example.com](mailto:krishnashubham09@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shubham0/)
+- 🐙 GitHub: [Your GitHub Profile](https://github.com/ShubhamKrishna0)
 
 ## 🙏 Acknowledgments
 
